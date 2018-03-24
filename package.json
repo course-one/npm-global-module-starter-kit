@@ -1,0 +1,12 @@
+{
+    "name": "greeting-project",
+    "version": "1.0.0",
+    "main": "./lib/greet.js",
+    "bin": {
+        "greet": "./bin/index.js"
+    },
+    "dependencies": {
+        "colors": "^1.2.1",
+        "lodash": "^4.17.5"
+    }
+}
